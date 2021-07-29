@@ -1,0 +1,17 @@
+Session ID,Date Time,Input Query,Output Query,Expected Query,Success
+4,24/07/2020 08:00 PM,hey!!!!!,Good Evening,Good Evening,Pass
+4,24/07/2020 08:00 PM,cost of baleno?,THE cost of baleno 150000 rs,the cost of baleno 150000 rs,Pass
+4,24/07/2020 08:00 PM,price of Maruti ????,THE price of maruti 100000 rs,the price of maruti 100000 rs,Pass
+4,24/07/2020 08:01 PM,okay!! thanks,You are welcome,You're welcome,Pass
+5,24/07/2020 08:01 PM,Bye bye :),bye,bye,Pass
+5,24/07/2020 08:01 PM,morning,I am unable to understand. Please try again,Good Morning,Fail
+5,24/07/2020 08:01 PM,hello,Good Evening,Good Evening,Pass
+5,24/07/2020 08:01 PM,cost of alto?,I am unable to understand. Please try again,the price of alto 75000 rs,Fail
+5,24/07/2020 08:02 PM,what do you understand?,I am unable to understand. Please try again,price telling of cars,Fail
+5,24/07/2020 08:02 PM,the cost of baleno,the the cost of baleno 150000 rs,the cost of baleno 150000 rs,Pass
+5,24/07/2020 08:03 PM,do you take rest ?,I am unable to understand. Please try again,"no, i dont",Fail
+6,24/07/2020 08:03 PM,bye,bye,bye,Pass
+7,24/07/2020 08:04 PM,tata,bye,bye,Pass
+7,24/07/2020 08:04 PM,greetings,Good Evening,Good Evening,Pass
+7,24/07/2020 08:04 PM,thanks!!!!,You are welcome,You're welcome,Pass
+8,24/07/2020 08:04 PM,tata ... Have a good day,bye,bye,Pass
